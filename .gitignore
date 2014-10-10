@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+target/
+.externalToolBuilders/
+*/target/*
+*/.settings/*
+.pmd
+*/.pmd
+*/reports/*
+.idea
+*.iml
